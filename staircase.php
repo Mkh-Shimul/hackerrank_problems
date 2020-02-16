@@ -16,7 +16,8 @@
 	    }
 	}
 
-// TEST CASES:
+	// TEST CASES:
+	staircase(6);
 	// input => 6
 	// output =>  	#
 		       ##
